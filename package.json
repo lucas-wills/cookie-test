@@ -1,0 +1,25 @@
+{
+  "name": "cookie-test",
+  "version": "1.0.0",
+  "description": "basic cookie set-up",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucas-wills/cookie-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucas-wills/cookie-test/issues"
+  },
+  "homepage": "https://github.com/lucas-wills/cookie-test#readme",
+  "dependencies": {
+    "express": "^4.14.1",
+    "express-session": "^1.15.0",
+    "parseurl": "^1.3.1"
+  }
+}
